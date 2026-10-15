@@ -30,6 +30,7 @@ A prototype that helps people choose a practice, follow through, reflect, and se
 
 **Built with:** Next.js · React · TypeScript · Tailwind CSS  
 *Source repository currently private.*
+[Try WIP →](https://workinpractice.netlify.app/)
 
 ### 🐐 The Chill Goat
 **Connecting a wellness community with coaching and experiences.**
